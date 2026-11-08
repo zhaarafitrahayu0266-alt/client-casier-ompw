@@ -1,0 +1,5 @@
+.katalog { padding: 12px; text-align: left; }
+.kategori { display: flex; gap: 8px; margin: 12px 0; flex-wrap: wrap; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 8px; }
+.kartu { display: flex; flex-direction: column; gap: 4px; padding: 12px; }
+.bar { position: sticky; bottom: 0; display: flex; justify-content: space-between; align-items: center; padding: 12px; margin-top: 12px; background: #1f2028; border-top: 1px solid #444; }
